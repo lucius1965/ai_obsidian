@@ -1,0 +1,10 @@
+# Ignora interamente la cartella delle impostazioni di Obsidian
+.obsidian/
+
+# Ignora il cestino interno di Obsidian
+.trash/
+
+# File spazzatura di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
